@@ -4,5 +4,4 @@
 
 int main() {
 	int s = sum(10);
-	pritnf("result=%d\n", s);
-}
+	printf("result=%d\n", s)a
